@@ -12,7 +12,7 @@ The dataset consists of various cartographic variables such as elevation, aspect
 
 The dataset is divided into training data (`train.csv`) and testing data (`test.csv`).
 
-**Note**: The dataset is highly unbalanced, with some classes having significantly fewer samples than others. To address this imbalance, various methodologies have been employed to balance the dataset.
+## **Note**: The dataset is highly unbalanced, with some classes having significantly fewer samples than others. To address this imbalance, various methodologies have been employed to balance the dataset.
 
 ## Evaluation
 Model performance will be evaluated using the Macro F1-Score. A Macro F1-Score higher than 0.88 is the target.
