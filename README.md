@@ -18,7 +18,7 @@ The dataset is divided into training data (`train.csv`) and testing data (`test.
 Model performance will be evaluated using the Macro F1-Score. A Macro F1-Score higher than 0.88 is the target.
 
 ## Repository Content
-- **`notebook.ipynb`**: Jupyter Notebook containing the code and analysis for the project.
+- **`forest.ipynb`**: Jupyter Notebook containing the code and analysis for the project.
 - **`train.csv`**: Training dataset.
 - **`test.csv`**: Testing dataset.
 
@@ -39,6 +39,6 @@ Model performance will be evaluated using the Macro F1-Score. A Macro F1-Score h
    bash
    git clone https://github.com/your-username/forest-cover-prediction.git
    cd forest-cover-prediction
-2. Open and run the Jupyter Notebook (notebook.ipynb)
+2. Open and run the Jupyter Notebook (forest.ipynb)
 3. Good Luck and Happy Modeling!
 
